@@ -2,3 +2,4 @@
 .shuttle*
 Secrets*.toml
 cargo.lock
+bun.lockb
